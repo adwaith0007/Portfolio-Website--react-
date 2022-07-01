@@ -1,0 +1,19 @@
+.footer{
+    background: var(--color-primary);
+    
+    margin-top: 5rem;
+}
+
+/* .logo{
+    display: ;
+    height: 50px;
+    width: 50px;
+    justify-content: center;
+    align-items: center;
+} */
+/* .footer__copyright{
+    display: flex;
+    justify-content: end;
+   
+    margin-top: 5rem;
+} */
