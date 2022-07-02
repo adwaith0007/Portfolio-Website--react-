@@ -18,14 +18,14 @@ function contact() {
           <article className='contact__option' >
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
-            <h5>email@gmail.com</h5>
+            {/* <h5>email@gmail.com</h5> */}
             <a href='https://' >Send a message</a>
           </article>
           <article className='contact__option' >
             <FaInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
             <h5></h5>
-            <a href='https://' >Send a message</a>
+            <a href='https://adwaith.k8055@gmail.com' >Send a message</a>
           </article>
           <article className='contact__option' >
             <BsWhatsapp className='contact__option-icon'/>
