@@ -53,6 +53,6 @@
 
 @media screen and (max-width:600px) {
     .nav{
-       left: 20%;
+       display:none;
     }
 }
