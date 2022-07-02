@@ -4,10 +4,10 @@ import './Footer.css'
 function Footer() {
   return (
     <div className='footer'>
-      <a href='#' className='footer__logo'>EGATOR</a>
+      <a href='#' className='footer__logo'></a>
       {/* <img className='logo' src={img}></img> */}
       <ul className='permalinks'>
-        <li><a href='#' >Home</a></li>
+        <li><a href='#' ></a></li>
 
       </ul>
       <div className='footer__copyright'>
