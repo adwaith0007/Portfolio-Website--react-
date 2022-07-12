@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/Adwaith_Cv.pdf'
+import CV from '../../assets/Adwaith_Reactjs.pdf'
 
 import './CTA.css'
 
